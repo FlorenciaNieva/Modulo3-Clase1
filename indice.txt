@@ -1,0 +1,4 @@
+Accion
+Comedia
+Romanticas
+Terror
